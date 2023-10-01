@@ -1,14 +1,18 @@
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science)  [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-blueviolet?logo=medium)](https://khuyentran1476.medium.com/) [![Daily Data Science Tips](https://img.shields.io/badge/Data%20Science%20Simplified-Daily%20Data%20Science%20Tips-green?logo=wordpress)](https://mathdatasimplified.com/) [![View on YouTube](https://img.shields.io/badge/YouTube-Watch%20on%20Youtube-red?logo=youtube)](https://www.youtube.com/channel/UCNMawpMow-lW5d2svGhOEbw) 
+<div align="center">
+<h1 align="center">
+Data Science
+</h3>
 
-# [Data Science Topics](https://github.com/khuyentran1401/Data-science)
-Collection of useful data science topics along with code and articles in my [data science blog](https://medium.com/@khuyentran1476). 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science) [![Daily Data Science Tips](https://img.shields.io/badge/Data%20Science%20Simplified-View%20Blog-green?logo=wordpress)](https://mathdatasimplified.com/) [![View on YouTube](https://img.shields.io/badge/YouTube-Watch%20on%20Youtube-red?logo=youtube)](https://www.youtube.com/channel/UCNMawpMow-lW5d2svGhOEbw) 
 
-If you want to received updates of these blogs in your mailbox, you can subscribe to [my Medium newsletter](https://khuyentran1476.medium.com/subscribe). To received bite-sized Python and daily data science tips in your mailbox, you can subscribe to [Data Science Simplified](https://mathdatasimplified.com/).
+ 
+Collection of useful data science topics along with articles and videos.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=khuyentran1401/Data-science&type=Date)](https://star-history.com/#khuyentran1401/Data-science&Date)
-
+</div>
+ 
+Subscribe to:
+- [Data Science Simplified](https://mathdatasimplified.com/) for articles and bite-sized Python tips in your mailbox
+- [My YouTube channel](https://www.youtube.com/@datasciencesimplified) for videos related to Python and data science
 
 ## How to Download the Code in This Repository to Your Local Machine
 
@@ -19,65 +23,83 @@ git clone https://github.com/khuyentran1401/Data-science
 
 # Contents
 1. [MLOps](#mlops)
-2. [Testing](#testing)
-3. [Productive Tools](#productive-tools)
-4. [Python Helper Tools](#python-helper-tools)
-5. [Tools for Deployment](#tools-for-deployment)
-6. [Speed-up Tools](#speed-up-tools)
-7. [Math Tools](#math-tools)
-8. [Machine Learning](#machine-learning)
-9. [Natural Language Processing](#natural-language-processing)
-10. [Computer Vision](#computer-vision)
-11. [Time Series](#time-series)
-12. [Feature Engineering](#feature-engineering)
-13. [Visualization](#visualization)
-14. [Mathematical Programming](#mathematical-programming)
-15. [Scraping](#scraping)
-16. [Python](#python)
-17. [Terminal](#terminal)
-18. [Linear Algebra](#linear-algebra)
-19. [Data Structure](#data-structure)
-20. [Statistics](#statistics)
-21. [Web Applications](#web-applications)
-22. [Share Insights](#share-insights)
-23. [Cool Tools](#cool-tools)
-24. [Learning Tips](#learning-tips)
-25. [Productive Tips](#productive-tips)
-26. [VSCode](#vscode)
-27. [Book Review](#book-review)
-28. [Data Science Portfolio](#data-science-portfolio)
+1. [Data Management Tools](#data-management-tools)
+1. [Testing](#testing)
+1. [Productive Tools](#productive-tools)
+1. [Python Helper Tools](#python-helper-tools)
+1. [Tools for Deployment](#tools-for-deployment)
+1. [Speed-up Tools](#speed-up-tools)
+1. [Math Tools](#math-tools)
+1. [Machine Learning](#machine-learning)
+1. [Natural Language Processing](#natural-language-processing)
+1. [Computer Vision](#computer-vision)
+1. [Time Series](#time-series)
+1. [Feature Engineering](#feature-engineering)
+1. [Visualization](#visualization)
+1. [Mathematical Programming](#mathematical-programming)
+1. [Scraping](#scraping)
+1. [Python](#python)
+1. [Logging and Debugging](#logging-and-debugging)
+1. [Linear Algebra](#linear-algebra)
+1. [Data Structure](#data-structure)
+1. [Statistics](#statistics)
+1. [Web Applications](#web-applications)
+1. [Share Insights](#share-insights)
+1. [Cool Tools](#cool-tools)
+1. [Learning Tips](#learning-tips)
+1. [Productive Tips](#productive-tips)
+1. [VSCode](#vscode)
+1. [Book Review](#book-review)
+1. [Data Science Portfolio](#data-science-portfolio)
 
 # MLOps
 
 | Title        | Article           | Repository  | Video
 | ------------- |:-------------:| :-----:| :-----:|
-|Introduction to DVC: Data Version Control Tool for Machine Learning Projects | [🔗](https://towardsdatascience.com/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) | [🔗](https://github.com/khuyentran1401/Machine-learning-pipeline) |
-| Introduction to Hydra.cc: A Powerful Framework to Configure your Data Science Projects | [🔗](https://towardsdatascience.com/introduction-to-hydra-cc-a-powerful-framework-to-configure-your-data-science-projects-ed65713a53c6) | [🔗](https://github.com/khuyentran1401/hydra_demo) | [🔗](https://www.youtube.com/playlist?list=PLnK6m_JBRVNoPnqnVrWaYtZ2G4nFTnGze)
+| Stop Hard Coding in a Data Science Project – Use Configuration Files Instead | [🔗](https://mathdatasimplified.com/2023/05/25/stop-hard-coding-in-a-data-science-project-use-configuration-files-instead/) | [🔗](https://github.com/khuyentran1401/hydra-demo) | [🔗](https://youtu.be/jaX9zrC7y4Y)
+| Poetry: A Better Way to Manage Python Dependencies | [🔗](https://mathdatasimplified.com/2023/06/12/poetry-a-better-way-to-manage-python-dependencies/) | | [🔗](https://youtu.be/-QSUyDvHQGY)
+| Git for Data Scientists: Learn Git through Practical Examples  | [🔗](https://mathdatasimplified.com/2023/07/01/git-deep-dive-for-data-scientists/) | | [🔗](https://youtu.be/UKCTvrJSoL0)
 | Introduction to Weight & Biases: Track and Visualize your Machine Learning Experiments in 3 Lines of Code | [🔗](https://towardsdatascience.com/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/wandb_tracking)
 | Kedro — A Python Framework for Reproducible Data Science Project | [🔗](https://towardsdatascience.com/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04) | [🔗](https://github.com/khuyentran1401/kedro_demo)
 | Orchestrate a Data Science Project in Python With Prefect | [🔗](https://towardsdatascience.com/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/prefect_example)
-| Orchestrate Your Data Science Project with Prefect 2.0 | [🔗](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) | [🔗](https://github.com/khuyentran1401/analyze_github_feed)
+| Orchestrate Your Data Science Project with Prefect 2.0 | [🔗](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) | [🔗](https://github.com/khuyentran1401/prefect2-mlops-demo) | [🔗](https://www.youtube.com/playlist?list=PLnK6m_JBRVNrHeLuMMJGtNLmgn3MpXYvq)
 | DagsHub: a GitHub Supplement for Data Scientists and ML Engineers | [🔗](https://towardsdatascience.com/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505) | [🔗](https://dagshub.com/khuyentran1401/dagshub-demo)
-| 4 pre-commit Plugins to Automate Code Reviewing and Formatting in Python | [🔗](https://towardsdatascience.com/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/productive_tools/precommit_examples) | [🔗](https://youtube.com/playlist?list=PLnK6m_JBRVNqskWiXLxx1QRDDng9O8Fsf)
-| BentoML: Create an ML Powered Prediction Service in Minutes | [🔗](https://towardsdatascience.com/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) | [🔗](https://github.com/khuyentran1401/customer_segmentation/tree/bentoml_demo)
-| How to Structure a Data Science Project for Readability and Transparency | [🔗](https://towardsdatascience.com/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) | [🔗](https://github.com/khuyentran1401/data-science-template)
+| 4 pre-commit Plugins to Automate Code Reviewing and Formatting in Python | [🔗](https://mathdatasimplified.com/2023/03/28/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-2/) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/productive_tools/precommit_examples) | [🔗](https://youtube.com/playlist?list=PLnK6m_JBRVNqskWiXLxx1QRDDng9O8Fsf)
+| BentoML: Create an ML Powered Prediction Service in Minutes | [🔗](https://towardsdatascience.com/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) | [🔗](https://github.com/khuyentran1401/customer_segmentation/tree/bentoml_demo) | [🔗](https://youtu.be/7csscNQnbnI)
+| How to Structure a Data Science Project for Maintainability (with DVC) | [🔗](https://mathdatasimplified.com/2023/06/17/how-to-structure-a-data-science-project-for-readability-and-transparency-2/) | [🔗](https://github.com/khuyentran1401/data-science-template/tree/dvc-poetry) | [🔗](https://youtu.be/TzvcPi3nsdw)
+| How to Structure an ML Project for Reproducibility and Maintainability (with Prefect) | [🔗](https://mathdatasimplified.com/2023/04/04/how-to-structure-an-ml-project-for-reproducibility-and-maintainability-3/) | [🔗](https://github.com/khuyentran1401/data-science-template/tree/prefect)
 | GitHub Actions in MLOps: Automatically Check and Deploy Your ML Model | [🔗](https://khuyentran1476.medium.com/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) | [🔗](https://github.com/khuyentran1401/employee-future-prediction)
 | Create Robust Data Pipelines with Prefect, Docker, and GitHub | [🔗](https://towardsdatascience.com/create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2) | [🔗](https://github.com/khuyentran1401/prefect-docker)
+| Create a Maintainable Data Pipeline with Prefect and DVC | [🔗](https://towardsdatascience.com/create-a-maintainable-data-pipeline-with-prefect-and-dvc-1d691ea5bcea) | [🔗](https://github.com/khuyentran1401/prefect-dvc) 
+| Build a Full-Stack ML Application With Pydantic And Prefect | [🔗](https://towardsdatascience.com/build-a-full-stack-ml-application-with-pydantic-and-prefect-915f00fe0c62) | [🔗](https://github.com/khuyentran1401/iris-prefect) |  [🔗](https://youtu.be/c-Bqg7Gbuc8)
+| Streamline Code Updates with DVC and GitHub Actions | [🔗](https://mathdatasimplified.com/2023/02/27/streamline-code-updates-with-dvc-and-github-actions/) | [🔗](https://github.com/khuyentran1401/prefect-dvc/tree/dvc-pipeline) | [🔗](https://youtu.be/jZu7LPKIOlY)
+| Create Observable and Reproducible Notebooks with Hex | [🔗](https://towardsdatascience.com/create-observable-and-reproducible-notebooks-with-hex-460e75818a09) | [🔗](https://github.com/khuyentran1401/customer_segmentation/tree/prefect2) | [🔗](https://youtu.be/_BjqCrun4nE)
+| Build Reliable Machine Learning Pipelines with Continuous Integration | [🔗](https://mathdatasimplified.com/2023/04/11/build-reliable-machine-learning-pipelines-with-continuous-integration-2/) | [🔗](https://github.com/khuyentran1401/cicd-mlops-demo) | [🔗](https://youtu.be/rkg09nNMAhs)
+| Automate Machine Learning Deployment with GitHub Actions | [🔗](https://mathdatasimplified.com/2023/04/18/automate-machine-learning-deployment-with-github-actions-2/) | [🔗](https://github.com/khuyentran1401/cicd-mlops-demo) | [🔗](https://youtu.be/728M0yhI0_M)
+| How to Build a Fully Automated Data Drift Detection Pipeline | [🔗](https://mathdatasimplified.com/2023/08/01/build-a-fully-automated-data-drift-detection-pipeline/) | [🔗](https://github.com/khuyentran1401/detect-data-drift-pipeline) | [🔗](https://youtu.be/4w2ly3WuL40)
+
+# Data Management Tools
+| Title        | Article           | Repository  | Video
+| ------------- |:-------------:| :-----:| :-----:|
+|Introduction to DVC: Data Version Control Tool for Machine Learning Projects | [🔗](https://mathdatasimplified.com/2023/02/20/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-2/) | [🔗](https://github.com/khuyentran1401/Machine-learning-pipeline) | [🔗](https://youtu.be/80s_dbfiqLM) 
+| Great Expectations: Always Know What to Expect From Your Data | [🔗](https://towardsdatascience.com/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/great_expectations_example)
+| Validate Your pandas DataFrame with Pandera |  [🔗](https://medium.com/towards-data-science/validate-your-pandas-dataframe-with-pandera-2995910e564) |[🔗](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/pandera_example/pandera.ipynb)  | [🔗](https://youtu.be/CB8D7RUM-lI)
+| Introduction to Schema: A Python Libary to Validate your Data | [🔗](https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) | [🔗](https://deepnote.com/launch?url=https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/schema.ipynb)
+| How to Create Fake Data with Faker | [🔗](https://towardsdatascience.com/how-to-create-fake-data-with-faker-a835e5b7a9d9) | [🔗](https://deepnote.com/launch?url=https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/faker.ipynb) |
+| Hypothesis and Pandera: Generate Synthesis Pandas DataFrame for Testing | [🔗](https://towardsdatascience.com/hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pandera_hypothesis) | [🔗](https://youtu.be/RbW-x_2dFMQ)
+| What is dbt (data build tool) and When should you use it? | [🔗](https://mathdatasimplified.com/2023/05/01/build-an-efficient-data-pipeline-is-dbt-the-key/) | [🔗](https://github.com/khuyentran1401/dbt-demo)| [🔗](https://youtu.be/mM5zWBP3G_U)
+| Streamline dbt Model Development with Notebook-Style Workspace | [🔗](https://mathdatasimplified.com/2023/06/05/dbt-mage-interactively-build-and-orchestrate-data-models/) | [🔗](https://github.com/khuyentran1401/dbt-mage) | [🔗](https://youtu.be/vQFg1Mp60-s)
 
 # Testing
 
 | Title        | Article           | Repository  |  Video
 | ------------- |:-------------:| :-----:| :-----:|
-| Pytest for Data Scientists | [🔗](https://towardsdatascience.com/pytest-for-data-scientists-2990319e55e6) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pytest) | [🔗](https://www.youtube.com/playlist?list=PLnK6m_JBRVNoYEer9hBmTNwkYB3gmbOPO)
+| Pytest for Data Scientists | [🔗](https://mathdatasimplified.com/2023/04/24/pytest-for-data-scientists-3/) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pytest) | [🔗](https://www.youtube.com/playlist?list=PLnK6m_JBRVNoYEer9hBmTNwkYB3gmbOPO)
 | 4 Lessor-Known Yet Awesome Tips for Pytest | [🔗](https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/advanced_pytest)
-| Great Expectations: Always Know What to Expect From Your Data | [🔗](https://towardsdatascience.com/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/great_expectations_example)
-| Validate Your pandas DataFrame with Pandera |  [🔗](https://medium.com/towards-data-science/validate-your-pandas-dataframe-with-pandera-2995910e564) |[🔗](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/pandera_example/pandera.ipynb) 
-| Introduction to Schema: A Python Libary to Validate your Data | [🔗](https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) | [🔗](https://deepnote.com/launch?url=https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/schema.ipynb)
 | DeepDiff — Recursively Find and Ignore Trivial Differences Using Python | [🔗](https://towardsdatascience.com/deepdiff-recursively-find-and-ignore-trivial-differences-using-python-231a5524f41d) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/deepdiff_example.ipynb)
 | Checklist — Behavioral Testing of NLP Models | [🔗](https://towardsdatascience.com/checklist-behavioral-testing-of-nlp-models-491cf11f0238) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/nlp/checklist/checklist_examples.ipynb)
-| How to Create Fake Data with Faker | [🔗](https://towardsdatascience.com/how-to-create-fake-data-with-faker-a835e5b7a9d9) | [🔗](https://deepnote.com/launch?url=https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/faker.ipynb) |
-| Detect Defects in a Data Pipeline Early with Validation and Notifications | [🔗](https://towardsdatascience.com/detect-defects-in-a-data-pipeline-early-with-validation-and-notifications-83e9b652e65a) | [🔗](https://github.com/khuyentran1401/prefect2-mlops-demo/tree/deepchecks) |
-| Hypothesis and Pandera: Generate Synthesis Pandas DataFrame for Testing | [🔗](https://towardsdatascience.com/hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pandera_hypothesis) |
+| Detect Defects in a Data Pipeline Early with Validation and Notifications | [🔗](https://towardsdatascience.com/detect-defects-in-a-data-pipeline-early-with-validation-and-notifications-83e9b652e65a) | [🔗](https://github.com/khuyentran1401/prefect2-mlops-demo/tree/deepchecks) | [🔗](https://youtu.be/HdPViOX8Uf8)
+| Write Readable Tests for Your Machine Learning Models with Behave | [🔗](https://towardsdatascience.com/write-readable-tests-for-your-machine-learning-models-with-behave-ec4a27b91490) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/behave_examples) | [🔗](https://youtu.be/gUttUxyNbIA)
 
 # Productive Tools
 
@@ -92,13 +114,13 @@ git clone https://github.com/khuyentran1401/Data-science
 
 
 # Python Helper Tools
-
-| Title        | Article           | Repository  |
-| ------------- |:-------------:| :-----:|
-| Pydash: A Kitchen Sink of Missing Python Utilities | [🔗](https://towardsdatascience.com/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/python/pydash.ipynb)
-| Write Clean Python Code Using Pipes | [🔗](https://towardsdatascience.com/write-clean-python-code-using-pipes-1239a0f3abf5) | [🔗](https://deepnote.com/project/Data-science-hxlyJpi-QrKFJziQgoMSmQ/%2FData-science%2Fproductive_tools%2Fpipe.ipynb)
-| Introducing FugueSQL — SQL for Pandas, Spark, and Dask DataFrames | [🔗](https://towardsdatascience.com/introducing-fuguesql-sql-for-pandas-spark-and-dask-dataframes-63d461a16b27) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/fugueSQL.ipynb)
-| Fugue and DuckDB: Fast SQL Code in Python | [🔗](https://towardsdatascience.com/fugue-and-duckdb-fast-sql-code-in-python-e2e2dfc0f8eb) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/Fugue_and_Duckdb/Fugue_and_Duckdb.ipynb)
+| Title        | Article           | Repository  | Video
+| ------------- |:-------------:| :-----:| :-----:|
+| Pydash: A Kitchen Sink of Missing Python Utilities | [🔗](https://towardsdatascience.com/pydash-a-bucket-of-missing-python-utilities-5d10365be4fc) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/python/pydash.ipynb) 
+| Write Clean Python Code Using Pipes | [🔗](https://mathdatasimplified.com/2023/03/20/write-clean-python-code-using-pipes-3/) | [🔗](https://deepnote.com/project/Data-science-hxlyJpi-QrKFJziQgoMSmQ/%2FData-science%2Fproductive_tools%2Fpipe.ipynb) | [🔗](https://youtu.be/K20_eZZGqsc)
+| Introducing FugueSQL — SQL for Pandas, Spark, and Dask DataFrames | [🔗](https://mathdatasimplified.com/2023/03/13/introducing-fuguesql-sql-for-pandas-spark-and-dask-dataframes-2/) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/fugueSQL.ipynb)
+| Fugue and DuckDB: Fast SQL Code in Python | [🔗](https://mathdatasimplified.com/2023/03/06/fugue-and-duckdb-fast-sql-code-in-python-2/) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/Fugue_and_Duckdb/Fugue_and_Duckdb.ipynb)
+| Simplify Data Science Workflows on BigQuery with Fugue and Python | [🔗](https://towardsdatascience.com/simplify-data-science-workflows-on-bigquery-with-fugue-and-python-5215a1b65e43) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/fugue_bigquery.ipynb)
 
 
 # Tools for Deployment
@@ -127,8 +149,8 @@ git clone https://github.com/khuyentran1401/Data-science
 
 # Machine Learning
 
-| Title        | Article           | Repository  |
-| ------------- |:-------------:| :-----:|
+| Title        | Article           | Repository  | Video
+| ------------- |:-------------:| :-----:| :-----:|
 | How to Monitor And Log your Machine Learning Experiment Remotely with HyperDash | [🔗](https://towardsdatascience.com/how-to-monitor-and-log-your-machine-learning-experiment-remotely-with-hyperdash-aa7106b15509) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/Hyperdash.ipynb) |
 | How to Efficiently Fine-Tune your Machine Learning Models | [🔗](https://towardsdatascience.com/how-to-fine-tune-your-machine-learning-models-with-ease-8ca62d1217b1) | [🔗](https://github.com/khuyentran1401/Machine-learning-pipeline) |
 | How to Learn Non-linear Dataset with Support Vector Machines | [🔗](https://towardsdatascience.com/how-to-learn-non-linear-separable-dataset-with-support-vector-machines-a7da21c6d987) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/machine-learning/SVM_Separate_XOR.ipynb) |
@@ -136,28 +158,28 @@ git clone https://github.com/khuyentran1401/Data-science
 | 3 Steps to Improve your Efficiency when Hypertuning ML Models | [🔗](https://towardsdatascience.com/3-steps-to-improve-your-efficiency-when-hypertuning-ml-models-5a579d57065e) 
 | human-learn: Create a Human Learning Model by Drawing | [🔗](https://towardsdatascience.com/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/human_learn_examples/human-learn%20examples.ipynb)
 | Patsy: Build Powerful Features with Arbitrary Python Code | [🔗](https://towardsdatascience.com/patsy-build-powerful-features-with-arbitrary-python-code-bb4bb98db67a#3be4-4bcff97738cd) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/statistics/patsy_example.ipynb)
-| SHAP: Explain Any Machine Learning Model in Python | [🔗](https://towardsdatascience.com/shap-explain-any-machine-learning-model-in-python-24207127cad7) | [🔗](https://deepnote.com/project/Data-science-hxlyJpi-QrKFJziQgoMSmQ/%2FData-science%2Fdata_science_tools%2Fshapey_values%2Fshapey_values.ipynb)
+| SHAP: Explain Any Machine Learning Model in Python | [🔗](https://mathdatasimplified.com/2023/05/20/shap-explain-any-machine-learning-model-in-python-4/) | [🔗](https://deepnote.com/project/Data-science-hxlyJpi-QrKFJziQgoMSmQ/%2FData-science%2Fdata_science_tools%2Fshapey_values%2Fshapey_values.ipynb)
 | Predict Movie Ratings with User-Based Collaborative Filtering  | [🔗](https://towardsdatascience.com/predict-movie-ratings-with-user-based-collaborative-filtering-392304b988af) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/collaborative_filtering/collaborative_filtering.ipynb)
-
-
+| River: Online Machine Learning in Python | [🔗](https://towardsdatascience.com/river-online-machine-learning-in-python-d0f048120e46) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/river_streaming/streaming.ipynb) | [🔗](https://youtu.be/2PRqU_uC1hk)
+| Human-Learn: Rule-Based Learning as an Alternative to Machine Learning | [🔗](https://towardsdatascience.com/human-learn-rule-based-learning-as-an-alternative-to-machine-learning-baf1899ecb3a) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/human_learn_examples/rule_based_model.ipynb) | [🔗](https://youtu.be/JF-bC6JYJsw)
 
 # Natural Language Processing
 
-| Title        | Article           | Repository  |
-| ------------- |:-------------:| :-----:|
+| Title        | Article           | Repository  | Video
+| ------------- |:-------------:| :-----:| :-----:|
 | Sentiment Analysis of LinkedIn Messages| [🔗](https://towardsdatascience.com/sentiment-analysis-of-linkedin-messages-3bb152307f84) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/nlp/linkedin_analysis) |
 | Find Common Words in Article with Python Module Newspaper and NLTK| [🔗](https://towardsdatascience.com/find-common-words-in-article-with-python-module-newspaper-and-nltk-8c7d6c75733) | [🔗](https://github.com/khuyentran1401/Extract-text-from-article) |
 | How to Tokenize Tweets with Python | [🔗](https://towardsdatascience.com/an-introduction-to-tweettokenizer-for-processing-tweets-9879389f8fe7) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/nlp/tweets_tokenize.ipynb) |
  | How to Solve Analogies with Word2Vec | [🔗](https://towardsdatascience.com/how-to-solve-analogies-with-word2vec-6ebaf2354009) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master//nlp/word2vec.ipynb) |
  | What is PyTorch | [🔗](https://towardsdatascience.com/what-is-pytorch-a84e4559f0e3) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/nlp/PyTorch.ipynb) |
  | Convolutional Neural Network in Natural Language Processing | [🔗](https://towardsdatascience.com/convolutional-neural-network-in-natural-language-processing-96d67f91275c) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/nlp/convolutional_neural_network.ipynb) |
- | Supercharge your Python String with TextBlob | [🔗](https://towardsdatascience.com/supercharge-your-python-string-with-textblob-2d9c08a8da05) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/nlp/textblob.ipynb)
+ | Supercharge your Python String with TextBlob | [🔗](https://towardsdatascience.com/supercharge-your-python-string-with-textblob-2d9c08a8da05) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/nlp/textblob.ipynb) | [🔗](https://youtu.be/V--kSO1vV50)
  | pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know | [🔗](https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pyLDAvis)
  | Streamlit and spaCy: Create an App to Predict Sentiment and Word Similarities with Minimal Domain Knowledge | [🔗](https://towardsdatascience.com/streamlit-and-spacy-create-an-app-to-predict-sentiment-and-word-similarities-with-minimal-domain-14085085a5d4) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/nlp/spacy_streamlit_app)
  | Build a Robust Conversational Assistant with Rasa | [🔗](https://towardsdatascience.com/build-a-conversational-assistant-with-rasa-b410a809572d) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/nlp/conversational_rasa)
  | I Analyzed 2k Data Scientist and Data Engineer Jobs and This is What I Found | [🔗](https://pub.towardsai.net/i-analyzed-2k-data-scientist-and-data-engineer-jobs-and-this-is-what-i-found-1ed37f98a704) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/nlp/diffbot_examples)
 | Checklist — Behavioral Testing of NLP Models | [🔗](https://towardsdatascience.com/checklist-behavioral-testing-of-nlp-models-491cf11f0238) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/nlp/checklist/checklist_examples.ipynb)
-| PRegEx: Write Human-Readable Regular Expressions in Python | [🔗](https://towardsdatascience.com/pregex-write-human-readable-regular-expressions-in-python-9c87d1b1335) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pregex.ipynb)
+| PRegEx: Write Human-Readable Regular Expressions in Python | [🔗](https://mathdatasimplified.com/2023/07/15/pregex-write-human-readable-regular-expressions-in-python-2/) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pregex.ipynb) | [🔗](https://youtu.be/bihAyp84NhE)
 | Texthero: Text Preprocessing, Representation, and Visualization for a pandas DataFrame | [🔗](https://towardsdatascience.com/texthero-text-preprocessing-representation-and-visualization-for-a-pandas-dataframe-525405af16b6) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/nlp/texthero)
 
 # Computer Vision
@@ -176,29 +198,29 @@ git clone https://github.com/khuyentran1401/Data-science
  
 # Feature Engineering
 
-| Title        | Article           | Repository  |
-| ------------- |:-------------:| :-----:|
+| Title        | Article           | Repository  | Video
+| ------------- |:-------------:| :-----:| :-----:|
 | 3 Ways to Extract Features from Dates with Python | [🔗](https://towardsdatascience.com/3-ways-to-extract-features-from-dates-927bd89cd5b9) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/time_series/extract_features/extract_features_from_dates.ipynb)
 | Similarity Encoding for Dirty Categories Using dirty_cat | [🔗](https://towardsdatascience.com/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/feature_engineering/dirty_cat_example/employee_salaries.ipynb)
-| Snorkel — Programmatically Build Training Data in Python | [🔗](https://towardsdatascience.com/snorkel-programmatically-build-training-data-in-python-712fc39649fe) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/feature_engineering/snorkel_example)
+| Snorkel — A Human-In-The-Loop Platform to Build Training Data | [🔗](https://towardsdatascience.com/snorkel-programmatically-build-training-data-in-python-712fc39649fe) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/feature_engineering/snorkel_example) | [🔗](https://youtu.be/Prr53wXiHfM)
 
 
 # Visualization
 
-| Title        | Article           | Repository  |
-| ------------- |:-------------:| :-----:|
+| Title        | Article           | Repository  | Video
+| ------------- |:-------------:| :-----:| :-----:|
 | How to Embed Interactive Charts on your Articles and Personal Website | [🔗](https://towardsdatascience.com/how-to-embed-interactive-charts-on-your-medium-articles-and-website-6987f7b28472) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/embed_charts.ipynb) |
 | What I Learned from Scraping 15k Data Science Articles on Medium      | [🔗](https://medium.com/@khuyentran1476/what-i-learned-from-scraping-15k-data-science-articles-on-medium-98a5f252d0aa) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/visualization/medium_articles) |
 | How to Create Interactive Plots with Altair | [🔗](https://towardsdatascience.com/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/altair/altair.ipynb) |
 | How to Create a Drop-Down Menu and a Slide Bar for your Favorite Visualization Tool | [🔗](https://towardsdatascience.com/how-to-create-a-drop-down-menu-and-a-slide-bar-for-your-favorite-visualization-tool-3a50b7c9ea01) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/visualization/dropdown/dropdown.ipynb) |
 | I Scraped more than 1k Top Machine Learning Github Profiles and this is what I Found | [🔗](https://towardsdatascience.com/i-scraped-more-than-1k-top-machine-learning-github-profiles-and-this-is-what-i-found-1ab4fb0c0474) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/visualization/github)
-| Top 6 Python Libraries for Visualization: Which one to Use? | [🔗](https://towardsdatascience.com/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/visualization/top_visualization.ipynb)
+| Top 6 Python Libraries for Visualization: Which one to Use? | [🔗](https://mathdatasimplified.com/2023/06/05/top-6-python-libraries-for-visualization-which-one-to-use/) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/visualization/top_visualization.ipynb)
 | Introduction to Yellowbrick: A Python Library to Visualize the Prediction of your Machine Learning Model | [🔗](https://towardsdatascience.com/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/Yellowbrick.ipynb)
 | Visualize Gender-Specific Tweets with Scattertext | [🔗](https://medium.com/towards-artificial-intelligence/visualize-gender-specific-tweets-with-scattertext-5167e4600025) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/visualization/scattertext)
 | Visualize Your Team’s Projects Using Python Gantt Chart | [🔗](https://towardsdatascience.com/visualize-your-teams-projects-using-python-gantt-chart-5a1c1c98ea35) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/gantt_chart/gantt_chart.ipynb)
 | How to Create Bindings and Conditions Between Multiple Plots Using Altair | [🔗](https://towardsdatascience.com/how-to-create-bindings-and-conditions-between-multiple-plots-using-altair-4e4fe907de37) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/altair/altair_advanced.ipynb)
 | How to Sketch your Data Science Ideas With Excalidraw | [🔗](https://towardsdatascience.com/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) |
-| Pyvis: Visualize Interactive Network Graphs in Python | [🔗](https://towardsdatascience.com/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/pyvis_examples/pyvis.ipynb)
+| Pyvis: Visualize Interactive Network Graphs in Python | [🔗](https://towardsdatascience.com/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/pyvis_examples/pyvis.ipynb) | [🔗](https://youtu.be/6eQOBuvUPeg)
 | Build and Analyze Knowledge Graphs with Diffbot | [🔗](https://towardsdatascience.com/build-and-analyze-knowledge-graphs-with-diffbot-2af83065ade0) 
 | Observe The Friend Paradox in Facebook Data Using Python | [🔗](https://towardsdatascience.com/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4#44e7-514613b6bd18) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/friend_paradox/facebook_network.ipynb)
 | What skills and backgrounds do data scientists have in common? | [🔗](https://www.datacamp.com/community/blog/what-skills-and-backgrounds-do-data-scientists-have-in-common) | [🔗](https://deepnote.com/project/Data-science-hxlyJpi-QrKFJziQgoMSmQ/%2FData-science%2Fvisualization%2Fanalyze_data_science_market%2Fanalyze_data_science_market.ipynb)
@@ -208,7 +230,7 @@ git clone https://github.com/khuyentran1401/Data-science
 | floWeaver — Turn Flow Data Into a Sankey Diagram In Python | [🔗](https://towardsdatascience.com/floweaver-turn-flow-data-into-a-sankey-diagram-in-python-d166e87dbba#2962-71a0f6581d6d) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/floweaver_example/travel.ipynb)
 | atoti — Build a BI Platform in Python | [🔗](https://pub.towardsai.net/atoti-build-a-bi-platform-in-python-beea47b92c7b) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/atoti_example/atoti.ipynb)
 | Analyze and Visualize URLs with Network Graph | [🔗](https://towardsdatascience.com/analyze-and-visualize-urls-with-network-graph-ee3ad5338b69) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/analyze_URL/analyze_URL.ipynb)
-| statsannotations: Add Statistical Significance Annotations on Seaborn Plots | [🔗](https://towardsdatascience.com/statsannotations-add-statistical-significance-annotations-on-seaborn-plots-6b753346a42a) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/statsannotation_example.ipynb)
+| statsannotations: Add Statistical Significance Annotations on Seaborn Plots | [🔗](https://towardsdatascience.com/statsannotations-add-statistical-significance-annotations-on-seaborn-plots-6b753346a42a) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/visualization/statsannotation_example.ipynb) | [🔗](https://youtu.be/z26I6jsdIno)
 
   
 # Mathematical Programming
@@ -233,8 +255,8 @@ git clone https://github.com/khuyentran1401/Data-science
 
 # Python
 
-| Title        | Article           | Repository  |
-| ------------- |:-------------:| :-----:|
+| Title        | Article           | Repository  | Video
+| ------------- |:-------------:| :-----:| :-----:|
 | Numpy Tricks for your Data Science Projects| [🔗](https://medium.com/@khuyentran1476/comprehensive-numpy-tutorials-for-beginners-8b88696bd3a2) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/python/Numpy_tricks.ipynb) |
 | Timing for Efficient Python Code | [🔗](https://towardsdatascience.com/timing-the-performance-to-choose-the-right-python-object-for-your-data-science-project-670db6f11b8e) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master//python/Time.ipynb) |
 | How to Use Lambda for Efficient Python Code | [🔗](https://towardsdatascience.com/how-to-use-lambda-for-efficient-python-code-ff950dc8d259) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/python/lambda.ipynb) |
@@ -245,18 +267,19 @@ git clone https://github.com/khuyentran1401/Data-science
 | Get the Most out of Your Array With These Four Numpy Methods | [🔗](https://medium.com/swlh/get-the-most-out-of-your-array-with-these-four-numpy-methods-2fc4a6b04736) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/python/four_numpy_methods.ipynb)
 | 3 Python Tricks to Read, Create, and Run Multiple Files Automatically | [🔗](https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/python/python_tricks)
 | How to Exclude the Outliers in Pandas DataFrame | [🔗](https://towardsdatascience.com/how-to-exclude-the-outliers-in-pandas-dataframe-c749fca4e091) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/python/4_pandas_lesser_know_tricks.ipynb)
-| Python Clean Code: 6 Best Practices to Make Your Python Functions More Readable | [🔗](https://towardsdatascience.com/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/python/good_functions)
+| Python Clean Code: 6 Best Practices to Make Your Python Functions More Readable | [🔗](https://mathdatasimplified.com/2023/05/11/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-2/) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/python/good_functions) | [🔗](https://youtu.be/IDHD8JYBl5M)
 | 3 Techniques to Effortlessly Import and Execute Python Modules | [🔗](https://towardsdatascience.com/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/python/module_example)
 | Simplify Your Functions with Functools’ Partial and Singledispatch | [🔗](https://towardsdatascience.com/simplify-your-functions-with-functools-partial-and-singledispatch-b7071f7543bb) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/python/functools%20example.ipynb)
 
 
-# Terminal
+# Logging and Debugging
 
-| Title        | Article           | Repository  |
-| ------------- |:-------------:| :-----:|
+| Title        | Article           | Repository  | Video
+| ------------- |:-------------:| :-----:| :-----:|
 | How to Create and View Interactive Cheatsheets on the Command-line | [🔗](https://towardsdatascience.com/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff) |
 | Understand CSV Files from your Terminal with XSV | [🔗](https://towardsdatascience.com/understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293) 
 | Prettify your Terminal Text With Termcolor and Pyfiglet| [🔗](https://towardsdatascience.com/prettify-your-terminal-text-with-termcolor-and-pyfiglet-880de83fda6b) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/python/prettify_terminal_output) |
+| Loguru: Simple as Print, Flexible as Logging | [🔗](https://mathdatasimplified.com/2023/07/17/simplify-your-python-logging-with-loguru/) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/productive_tools/logging_tools) | [🔗](https://youtu.be/XY_OrUoR-HU)
 | Stop Using Print to Debug in Python. Use Icecream Instead | [🔗](https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc) 
 | Rich: Generate Rich and Beautiful Text in the Terminal with Python | [🔗](https://towardsdatascience.com/rich-generate-rich-and-beautiful-text-in-the-terminal-with-python-541f39abf32e) | [🔗](https://github.com/khuyentran1401/Data-science/tree/master/terminal/rich)
 | Create a Beautiful Dashboard in your Terminal with Wtfutil | [🔗](https://towardsdatascience.com/create-a-beautiful-dashboard-in-your-terminal-with-wtfutil-573424fe3684) | [🔗](https://github.com/khuyentran1401/Data-science/blob/master/terminal/wtf/config.yml)
